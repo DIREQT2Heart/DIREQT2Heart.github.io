@@ -1,13 +1,8 @@
 ---
 layout: default
-img: PIs_picture.png
-category: people
-title: People 
+img: design_Lacaixa.png
+category: research
+title: News
 description: |
 ---
-Teresa Matias Correia from CCMAR
-Rita Nunes from Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento (ISR)
-Carlos Alberola-López from University of Valladolid
-Borja Ibáñez from Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC).
-
-Full team
+<a href="https://observador.pt/2022/12/05/e-se-a-ressonancia-magnetica-pudesse-fazer-imagens-melhores/"> Notícia Observador</a>
