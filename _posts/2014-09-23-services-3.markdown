@@ -6,9 +6,3 @@ title: Deep Learning 👩🏻‍💻
 description: |
 ---
 Our active research projects aim to develop deep learning-based methods for image reconstruction from accelerated scans, automated detection, segmentation and classification tasks for diagnosis, prognosis, and therapy response prediction. 
-
-**News:** <font size="3">  Our project "Uncovering the secrets of marine fish with NVIDIA" has been awarded an 🌟 NVIDIA 🌟 Academic grant 🎉</font> 
-
-<font size="3"> 👩‍🎓 Would you like to do a PhD with us? <br/></font>
-<sub>[Check our projects](https://euraxess.ec.europa.eu/jobs/133786)</sub>
-<sub>🔎 Host: CCMAR | Project title/description: PhD Fellowship | Artificial Intelligence & BioImaging </sub>

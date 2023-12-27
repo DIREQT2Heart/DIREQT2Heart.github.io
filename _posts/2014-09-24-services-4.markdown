@@ -1,11 +1,13 @@
 ---
 layout: default
-img: Educational.png
-category: research
-title: Educational Resources 📓
+img: PIs_picture.png
+category: people
+title: People 
 description: |
 ---
-QBI hosts educational courses in the area of biomedical imaging, which mixes didactic lectures with hands-on tutorials and programming exercises covering, for example, the principles of tomography.
+Teresa Matias Correia from CCMAR
+Rita Nunes from Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento (ISR)
+Carlos Alberola-López from University of Valladolid
+Borja Ibáñez from Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC).
 
-🔎 Attending Science is Wondeful 2021? \
-🔗 Download our activity files as [ZIP](https://ualg365-my.sharepoint.com/:u:/g/personal/tmcorreia_ualg_pt/EaSFyTfn4DBFsYMJ6zXLrjABXAtIRyz781KcGfXsHezVBw?e=TSTeZK) or [separately](https://ualg365-my.sharepoint.com/:f:/g/personal/tmcorreia_ualg_pt/EnvO84oDk9FCpMygkIGFcoIBuqathcY1fgTYA1OG11MTBQ?e=WCM2tN)
+Full team
