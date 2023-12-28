@@ -1,0 +1,8 @@
+---
+layout: default
+img: OI.png
+category: about
+title: Coronary heart disease
+description: |
+---
+  Coronary heart disease (CHD), which is the leading cause of death worldwide, occurs when blood flow to the heart becomes restricted. Early detection of this condition is of paramount importance for preventing life-threatening events.
