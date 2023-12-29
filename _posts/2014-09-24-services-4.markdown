@@ -1,8 +1,0 @@
----
-layout: default
-img: design_Lacaixa.png
-category: research
-title: News
-description: |
----
-<a href="https://observador.pt/2022/12/05/e-se-a-ressonancia-magnetica-pudesse-fazer-imagens-melhores/"> Notícia Observador</a>
