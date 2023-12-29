@@ -10,10 +10,10 @@ port: 4001
 title: DIREQT2Heart Home
 email: teresa.correia@kcl.ac.uk
 author: Teresa Correia
-description: > # Quantitative Bioimaging group at CCMAR MRI Optical Imaging Deep Learning Image Reconstruction Processing
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description."
+description: > # Quantitative Bioimaging group at CCMAR MRI Optical Imaging Deep Learning Image Reconstruction Processing   You can edit this line in _config.yml. It will appear in your document  head meta (for Google search results) and in your feed.xml site  description."
+  A DIRect QuanTitative assessment of Heart disease with magnetic
+  resonance imaging. It is a project that Prompt diagnosis of coronary
+  heart disease to prevent early mortality.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
