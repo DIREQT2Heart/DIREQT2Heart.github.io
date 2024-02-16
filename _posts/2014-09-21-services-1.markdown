@@ -1,6 +1,6 @@
 ---
 layout: default
-img: OI.png
+img: CAD.png
 category: About
 title: Coronary heart disease
 description: |
